@@ -56,8 +56,7 @@ This section describes the work that will be implemented with future updates:
 1.	Increasing the Product Portfolio.
 2.	Enhance User Interface by adding more user interactive features.
 3.	Improvements with the Mockup Generator.
-4.	Reducing Loading time of the Website.
-5.	Adding more printing techniques.
-6.	Providing Custom Design Services to the Client.
-7.	Improving print technology that can help us reduce prices in order to attract more business.
-8.	To automate the printing process so as to eliminate errors in printing and infuse consistency.
+4.	Adding more printing techniques.
+5.	Providing Custom Design Services to the Client.
+6.	Improving print technology that can help us reduce prices in order to attract more business.
+7.	To automate the printing process so as to eliminate errors in printing and infuse consistency.
